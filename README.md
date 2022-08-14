@@ -3,7 +3,7 @@
 Reinforcment learning is the branch of machine learning that tries to find the optimal policy the agent should follow in an environemnt.
 The following picture is a summary of a given reinforecment learning environemnt and the actions that an agent take.
 
-![image.png](attachment:Reinforcement-Learning-Agent-and-Environment.png)
+![image.png](Reinforcement-Learning-Agent-and-Environment.png)
 
 
 ## What is this proejct about?
