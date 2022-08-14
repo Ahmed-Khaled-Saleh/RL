@@ -8,7 +8,7 @@ The following picture is a summary of a given reinforecment learning environemnt
 
 ## What is this proejct about?
 
-This project is a follow up of [This](https://anvilproject.org/guides/content/creating-links/) post. It implements some improvements suggested by the Auuthor.
+This project is a follow up of [This](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/) post. It implements some improvements suggested by the Auuthor.
 The code implement the Q-learning Algorithm. With some modifications and debugging, we try to improve the performance of the algorithm.
 
 
